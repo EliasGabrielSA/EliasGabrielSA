@@ -3,6 +3,7 @@
 - I’m currently majoring in information systems / second period of college
 - Pronouns: he/him
 - I’m currently learning C / Python 
+- Actually planning to work with data science
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-de-souza/">
