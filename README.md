@@ -1,7 +1,6 @@
 ### Hi there 
 
 - I’m currently majoring in information systems (3/8)
-- Pronouns: he/him
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-de-souza/">
