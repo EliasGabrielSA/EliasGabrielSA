@@ -1,9 +1,11 @@
 ### Hi there 
 
 - I’m currently majoring in information systems (3/8)
+- 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-de-souza/">
+  <a href="https://www.kaggle.com/egsoan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGabrielSA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasGabrielSA&layout=compact&langs_count=7&theme=dark"/>
 </div>
