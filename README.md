@@ -1,6 +1,6 @@
 ### Hi there 
 
-- I’m currently majoring in information systems (4/8)
+- I’m currently majoring in information systems (5/8)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-de-souza/">
