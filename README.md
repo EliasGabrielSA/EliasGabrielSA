@@ -1,7 +1,5 @@
 ### Hi there 
 
-- I’m currently majoring in information systems (5/8)
-
 <div align="center">
   <a href="https://www.linkedin.com/in/elias-de-souza/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasGabrielSA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
